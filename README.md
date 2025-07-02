@@ -71,7 +71,7 @@ technical_background:
     "Intern - Data Analytics in R",
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
+currently_learning: [" "]
 current_project(s): ["The Book Recommender"]
 ```
 

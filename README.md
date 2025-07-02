@@ -20,30 +20,44 @@
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEzOTAzODYsIm5iZiI6MTc1MTM5MDA4NiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzAxVDE3MTQ0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRiNjQ1NjU4NWY2MDE1MzM4MjM5OTg2MTI2ZWMxZDE1YTRkNzY2NzNhNDMzNjhiYTRhMmI1ZjM0N2Y5ZTgyZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XFeAcg3VusvSOgSQGzMYUHKIsDmJMUTOta-oHPdCUN8">
 <br><br>
 
-- Languages
+- Languages:
+  - 🐍 Python
+  - ☕️ Java
+  - 📊 R
+<!--
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,r,py,perl" />
   </a>
 </p>
-
-- Databases
+-->
+- Databases:
+  - MySQL
+  - Postgres
+  - Pinecone's VectorStore
+<!--
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
   </a>
 </p>
-
-- Machine Learning
+-->
+- Machine Learning:
+  - Data Preprocessing: Pandas, NumPy
+  - Natural Language Processing: NLTK, Transformers
+  - Modeling: Sklearn, Gensim, PyTorch
+  - Information Retrieval: LangChain, HuggingFace
+  - Data Viz: matplotlib, seaborn, Plotly
+<!--
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=regex,sklearn," />
   </a>
 </p>
-
+-->
 <br><br>
 
-<h4>More about my education, technical skills, and interests:</h4>
+<h2 align="center"> More about my education, skills, and interests... </h2> 
 
 ```yaml
 located_in: Halifax, Nova Scotia
@@ -71,10 +85,11 @@ technical_background:
     "Intern - Data Analytics in R",
   ]
   
-currently_learning: [" "]
+currently_learning: ["Retrieval Augmentation Generation"]
 current_project(s): ["The Book Recommender"]
 ```
 
 <br/>
 
 <hr>
+<img align="center" src="https://capsule-render.vercel.app/api?type=soft&height=100&text=Actively%20job%20hunting!&fontSize=40&fontAlignY=45&color=0:ff7400,100:a82da8&animation=blinking&fontColor=ffffff&section=footer" />

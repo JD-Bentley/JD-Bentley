@@ -57,9 +57,9 @@
 -->
 
 - Statistics:
-  - Variable Analysis: regression and variance, correlation, dependency, distribution assumptions
+  - Variable Analysis: regression and variance, correlation, dependency
   - Probability: parametric & non-parametric probability modeling, Bayesian Theory, Frequentist theories
-  - Estimation: Maximum Likelihood, Bayesian estimation & risk, Method of Moments, Confidence Intervals
+  - Estimation: Maximum Likelihood, Bayesian estimation & risk, Confidence Intervals
   - Testing: Significance/Hypothesis/AB Testing
 <br><br>
 

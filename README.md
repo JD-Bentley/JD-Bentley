@@ -85,8 +85,7 @@ technical_background:
     "Intern - Data Analytics in R",
   ]
   
-currently_learning: ["Retrieval Augmentation Generation"]
-current_project(s): ["The Book Recommender"]
+current_project(s): ["The Book Recommender", Visualizing Cybersecurity Failures]
 ```
 
 <br/>

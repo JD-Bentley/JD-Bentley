@@ -20,7 +20,7 @@
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEzOTAzODYsIm5iZiI6MTc1MTM5MDA4NiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzAxVDE3MTQ0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRiNjQ1NjU4NWY2MDE1MzM4MjM5OTg2MTI2ZWMxZDE1YTRkNzY2NzNhNDMzNjhiYTRhMmI1ZjM0N2Y5ZTgyZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XFeAcg3VusvSOgSQGzMYUHKIsDmJMUTOta-oHPdCUN8">
 <br><br>
 
-- Languages:
+- Programming Languages:
   - 🐍 Python
   - ☕️ Java
   - 📊 R
@@ -33,7 +33,7 @@
 -->
 - Databases:
   - MySQL
-  - Postgres
+  - PostgreSQL
   - Pinecone's VectorStore
 <!--
 <p align="left">
@@ -45,8 +45,8 @@
 - Machine Learning:
   - Data Preprocessing: Pandas, NumPy
   - Natural Language Processing: NLTK, Transformers
-  - Modeling: Sklearn, Gensim, PyTorch
-  - Information Retrieval: LangChain, HuggingFace
+  - Modeling: sklearn, Gensim
+  - Agentic Framework: LangChain
   - Data Viz: matplotlib, seaborn, Plotly
 <!--
 <p align="left">
@@ -91,7 +91,6 @@ technical_background:
     "Intern - Data Analytics in R",
   ]
   
-current_project(s): ["The Book Recommender", Visualizing Cybersecurity Failures]
 ```
 
 <br/>
